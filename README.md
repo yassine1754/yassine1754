@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @yassine1754
 - 👀 I’m interested in learning deevlopment
 - 🌱 I’m currently learning how to be a programmer and i'm currently using c
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
 
 <!---
 yassine1754/yassine1754 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
